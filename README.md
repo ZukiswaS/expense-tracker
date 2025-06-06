@@ -46,9 +46,13 @@ python main.py
 
 ## Graph example
 
-Here's a sample visualization of the monthly expense trend:
+A sample monthly expenses graph
 
-![Expense Graph](./graph.png)
+![Expense Graph](./figure1.png)
+
+A sample visualization of the monthly expense trend:
+
+![Monthly Trends](./graph.png)
 
 ## 👩🏽‍💻 Author
 Made with ❤️ by Zukiswa Seboto
