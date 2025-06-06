@@ -146,7 +146,7 @@ def show_menu():
 def main():
     while True:
         show_menu()
-        choice = input("Enter your choice (1-4): ")
+        choice = input("Enter your choice (1-6): ")
 
         if choice == '1':
             add_expense()
