@@ -48,6 +48,13 @@ python main.py
 
 Here's a sample visualization of the monthly expense trend:
 
+![Expense Graph](./graph.png)
+
+## 👩🏽‍💻 Author
+Made with ❤️ by Zukiswa Seboto
+
+**GitHub**: @ZukiswaS
+
 
 
 
